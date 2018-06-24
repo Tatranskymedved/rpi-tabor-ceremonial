@@ -10,11 +10,14 @@ This document will try to sumarize what else is needed to setup RPI to the same 
 
 
 #WIFI:
+
 https://frillip.com/using-your-raspberry-pi-3-as-a-wifi-access-point-with-hostapd/
 
 
 #Music
-Required:
--mpd (music player daemon)
--mpc (music player client)
--music files (e.g. *.MP3)
+
+Required
+
+1. mpd (music player daemon)
+2. mpc (music player client)
+3. music files (e.g. *.MP3)
