@@ -34,3 +34,9 @@ https://circuitdigest.com/microcontroller-projects/raspberry-pi-pwm-tutorial - H
 https://tutorials-raspberrypi.com/connect-control-raspberry-pi-ws2812-rgb-led-strips/ - HW PWM RPI
 
 
+Circuits
+
+https://raspberrypi.stackexchange.com/questions/53276/control-5m-of-ws2812-led-strip-wire-it-up
+
+https://electronics.stackexchange.com/questions/251527/simple-circuit-with-transistor-using-raspberry-pi
+
